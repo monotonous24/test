@@ -1,4 +1,4 @@
-package com.wangwei.wiki;
+package com.wangwei.wiki.config;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.slf4j.Logger;

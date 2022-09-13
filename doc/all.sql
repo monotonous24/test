@@ -1,0 +1,1 @@
+insert  into test(id,name)value (1,'totti');
